@@ -39,7 +39,8 @@ Faites un commit par exercice.
 
 ### Exercice 1 : la qualité d’un article n'est jamais supérieure à 50
 
-Ajouter dans le fichier `shop.js` le code correspondant permettant de vérifier la contrainte suivante: la qualité d’un article n'est jamais supérieure à 50
+Ajouter dans le fichier `shop.js` le code correspondant permettant de vérifier la contrainte suivante: "la qualité d’un article n'est jamais supérieure à 50".
+
 Le test correspondant est déjà écrit dans `shop.spec.js` et il est commenté.
 Dé-commentez ce test.
 Une fois votre code écrit, ce test doit passer.
@@ -47,6 +48,7 @@ Une fois votre code écrit, ce test doit passer.
 ### Exercice 2 : l'article "Sulfuras"
 
 Ajouter dans le fichier `shop.js` le code correspondant permettant de vérifier la contrainte suivante: l'article "Sulfuras" n'a pas de date limite, et sa qualité est toujours égale à 80.
+
 Les tests correspondants sont déjà écrits dans `shop.spec.js` et ils sont commentés.
 Dé-commentez ces tests.
 Une fois votre code écrit, ces tests doivent passer.
@@ -58,9 +60,10 @@ Ajouter dans le fichier `shop.js` le code correspondant permettant de vérifier 
 - tombe à zéro quand le nombre de jours avant la date d'expiration est inférieur à 0 (quand le concert est passé)
 - augmente chaque jour de 3 quand le nombre de jours avant la date d'expiration est inférieur ou égal à 5
 - augmente chaque jour de 2 quand le nombre de jours avant la date d'expiration est inférieur ou égal à 10
-  Le test correspondant est déjà écrit dans `shop.spec.js` et il est commenté.
-  Dé-commentez ce test.
-  Une fois votre code écrit, ce test doit passer.
+
+Le test correspondant est déjà écrit dans `shop.spec.js` et il est commenté.
+Dé-commentez ce test.
+Une fois votre code écrit, ce test doit passer.
 
 ### Exercice 4 : l'article "Conjured"
 
